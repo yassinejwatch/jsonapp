@@ -1,0 +1,72 @@
+{
+    "Ads": {
+        "inter_type":"unity",
+        "native_type":"huawei",
+        "banner_type":"huawei",
+        "interId1":"testb4znbuh3n2",
+        "interId2":"testb4znbuh3n2",
+        "interId3":"testb4znbuh3n2",
+        "bannerId":"testw6vs28auh3",
+        "nativeId":"testy63txaom86"
+    }
+ , "guideData" : [
+
+    {
+
+        "txt_title":"tip test 1 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
+    },
+   {
+
+        "txt_title":"tip test 2 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"textttt",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
+    },
+   {
+
+        "txt_title":"tip test 3 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
+    }
+  , {
+
+        "txt_title":"tip test 4 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
+    },
+   {
+
+        "txt_title":"tip test 5 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
+    }
+  
+]
+    }
+
